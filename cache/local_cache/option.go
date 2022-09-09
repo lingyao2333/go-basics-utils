@@ -1,8 +1,9 @@
 package local_cache
 
 import (
-	"go-basics-utils/options"
 	"time"
+
+	"github.com/lingyao2333/go-basics-utils/options"
 )
 
 type Config struct {
