@@ -1,9 +1,9 @@
 package goroutine
 
 import (
-	"log"
 	"time"
 
+	"github.com/lingyao2333/go-basics-utils/log"
 	"github.com/lingyao2333/go-basics-utils/options"
 )
 
